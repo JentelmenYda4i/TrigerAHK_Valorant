@@ -1,4 +1,5 @@
 # TrigerAHK_Valorant
+
 Setup
 Download Auto Hot Key from https://www.autohotkey.com/download/ahk-install.exe and install it.
 Then open the file.
